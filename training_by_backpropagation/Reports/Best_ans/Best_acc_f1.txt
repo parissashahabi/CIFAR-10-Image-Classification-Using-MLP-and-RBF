@@ -1,0 +1,7 @@
+Train Accuracy: 0.8245361
+
+Train F1: 0.8245734
+
+Test Accuracy: 0.8019169
+
+Test F1: 0.8022531

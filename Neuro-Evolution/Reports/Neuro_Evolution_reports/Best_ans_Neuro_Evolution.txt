@@ -1,0 +1,11 @@
+best train accuracy: 0.1864647
+
+best test accuracy: 0.1797931
+
+average train Acc: 0.1678642
+
+average test fitness: 0.1634107
+
+Train F1: 0.1450067
+
+Test F1: 0.1414073
