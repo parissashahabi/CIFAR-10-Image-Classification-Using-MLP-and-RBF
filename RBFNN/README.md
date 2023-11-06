@@ -38,4 +38,11 @@ The results of the Radial Basis Function Neural Network (RBFNN) with cross-entro
 
 3. **Training Approach:** RBFNNs can benefit from a different training approach, such as using the mean squared error (MSE) loss function and the pseudo-inverse technique. MSE enables better approximation of target values, and the pseudo-inverse technique allows direct weight matrix calculation, bypassing iterative training.
 
+<p align="center">
+  <img src="Report/Best_ans/RBFNN_ans_Train_loss.png" alt="Train loss" title="image title" width="500">
+</p>
+<p align="center">
+  <img src="Report/Best_ans/RBFNN_ans_testset_confusion_matrix.png" alt="testset_confusion_matrix" title="image title" width="500">
+</p>
+
 Please refer to the project files and code for a detailed understanding of the implementation and results.
